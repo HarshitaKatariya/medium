@@ -1,0 +1,7 @@
+To-do for this project:
+
+Add Edit Blog and Delete Blog routes on the frontend
+
+Add a Home / Main Hero Page
+
+Improve the overall design and user experience of the website
